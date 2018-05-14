@@ -1,0 +1,45 @@
+
+html,
+body {
+    height: 100%;
+}
+
+.modal-content
+{
+	font-family: 'Pathway Gothic One', sans-serif;
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+	background: #111517;
+	color:white;
+    font-size: 22px;
+   
+}
+
+.modal-body p{
+	color:white;
+	font-family: 'Pathway Gothic One', sans-serif;
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+}
+
+
+
+.x{
+    color: white;
+    padding-right: 3px;
+    font-size: 23px;
+}
+
+
+
+.rotated
+{
+	-moz-transform:rotate(-90deg);
+    -ms-transform:rotate(-90deg);
+    -o-transform:rotate(-90deg);
+    -webkit-transform:rotate(-90deg);
+    transform-origin: top left;  
+}
+
+
+
